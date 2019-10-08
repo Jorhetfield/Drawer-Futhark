@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Valknut",
+    "description": "El símbolo Valknut es un símbolo vikingo de gran importancia formado por tres triángulos entrelazados.\n La palabra Valknut se forma a partir de la unión de los términos valr y knut, que significan respectivamente “soldado caído en batalla” y “nudo”.\n Esta palabra es de origen moderno ya que se desconoce la palabra utilizada históricamente para referirse a este símbolo.\n En base a los lugares donde se ha encontrado representado este símbolo puede deducirse que estaba relacionado con la lucha y con la muerte. Todas las escenas pictóricas que incluyen este símbolo son batallas o escenarios de una muerte.\n En cualquier caso es un símbolo que guarda relación con el dios de la muerte, Odín. En base a los restos arqueológicos parece poder descartarse que este símbolo hubiera sido utilizado únicamente con finalidades ornamentales. Existen distintas variaciones geométricas de este símbolo. La forma más habitual consiste en tres triángulos distintos que se intersectan. También es posible dibujar este símbolo con una sola línea continua que se entrelaza para formar tres triángulos. Este símbolo también es conocido con el nombre de “corazón de Hrungnir”, en relación al gigante Hrungnir de la mitología nórdica.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/valknut.png"
+  },
+  {
+    "id": "2",
+    "name": "Mjolnir",
+    "description": "Mjolnir es el martillo del dios Thor, hijo de Odín. El martillo de Thor es un símbolo de fuerza y protección porque representa una de las armas más temibles de la mitología nórdica. La palabra Mjolnir tiene un origen germánico y significa triturar o pulverizar. Según la mitología nórdica este martillo fue fabricado por los enanos Brokkr y Eitri para ser entregado a Thor. La posesión del martillo por parte de Thor simboliza su dominio sobre los rayos y los truenos. Esta arma tenía el poder de volver a las manos de Thor cuando este lo lanzaba. El uso de este símbolo se extendió hasta tiempos cristianos, cuando incluso los vikingos convertidos al cristianismo seguían utilizando el símbolo de Mjölnir con finalidades ornamentales para simbolizar la fuerza y la protección.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/mjolnir.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Gungnir",
+    "description": "El símbolo Gungnir representa la lanza de Odín conocida con el mismo nombre. Esta lanza fue fabricada por los enanos y entregada por el dios Loki a Odín. La lanza Gungnir tenía la propiedad de acertar siempre en el objetivo y volver a las manos de Odín una vez lanzada. Este poder también podía encontrarse en el martillo de Thor.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/gungnir.png"
+  },
+  {
+    "id": "4",
+    "name": "Vegvísir",
+    "description": "El Vegvísir, también conocido como brújula vikinga, es un símbolo que fue utilizado por los vikingos como ayuda de navegación. Según algunas leyendas este símbolo era inscrito en las naves vikingas para asegurar su futuro regreso a casa. Su representación más acurada se conoce gracias a su aparición en un manuscrito islandés del siglo XVII conocido como Galdrabók. Este símbolo guarda un cierto parecido con otro símbolo vikingo de gran importancia, el aegishjalmer. En la actualidad ha ganado de nuevo popularidad como tatuaje para simbolizar el camino recto y evitar perder el rumbo de la vida.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/vegvisir.png"
+  },
+  {
+    "id": "5",
+    "name": "Aegishjalmur",
+    "description": "El aegishjalmur, conocido también como Hechizo del terror, es un símbolo que fue utilizado por los guerreros vikingos para ofrecerles protección en un sentido más individual que en el caso del martillo de Thor.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/aegishjalmur.png"
+  },
+  {
+    "id": "6",
+    "name": "El triple cuerno de Odín",
+    "description": "El triple cuerno de Odín es un símbolo relacionado con el dios Odín que guarda una cierta similitud con el símbolo de la triqueta debido a su triple simetría. Este símbolo está formado por tres cuernos que los vikingos utilizaban para beber. Según cuenta la mitología nórdica, el dios Odín persuadió durante tres noches a la gigante Gunnlod para que le diera tres sorbos de la hidromiel contenida en los cuernos. Gunnlod accedió a su petición, pero Odín aprovechó para beber el contenido entero de los cuernos. Gracias al poder de la hidromiel de la poesía, Odín se convirtió en águila y escapó de Gunnlod. Los nombres de los tres cuernos son Óðrœrir, Boðn and Són. Los tres contenían la hidromiel de la poesía (skáldskaparmjöðr) que había sido depositada por los enanos Fjalar y Galar. Según la mitología nórdica la hidromiel es un símbolo de sabiduría e inspiración poética. Cualquiera que la beba se convertirá en un sabio poeta. Este símbolo aparece en la piedra rúnica vikinga de Snoldelev, una piedra del siglo IX encontrada en Dinamarca.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/cuerno-odin.png"
+  },
+  {
+    "id": "7",
+    "name": "Yggdrasil",
+    "description": "Yggdrasil es el árbol gigante que mantiene unidos los nueve mundos de la mitología nórdica. Hay distintas criaturas que habitan en el árbol Yggdrasil. En su base vive el dragón Nidhug, mientras que en su copa vive un águila. La ardilla Ratatosk corre entre los dos extremos llevando mensajes entre los dos seres. El Yggdrasil es mencionado en dos libros de la Edda prosaica, donde se presenta la mitología nórdica. El significado de Yggdrasil se puede traducir como “caballo de Odín”. Yggdrasil tiene tres raíces principales. Una de ellas llega hasta Asgard, el mundo de los dioses. Otra raíz pasa por la tierra de los gigantes, Jötunheim, mientras que la tercera llega hasta el Niflheim.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/yggdrasil.png"
+  },
+  {
+    "id": "8",
+    "name": "Los tapices del destino",
+    "description": "Los tapices del destino eran tejidos por las nornas, unos seres femeninos de la mitología nórdica. Este símbolo contiene todas las runas del alfabeto rúnico. Esto quiere decir que todo el pasado, el presente y el futuro están contenidos en este símbolo. Este símbolo recuerda también que todos los acontecimientos y las distintas circunstancias están conectados.",
+    "logo": "https://www.simboloteca.com/wp-content/uploads/2017/12/tapiz-del-destino.png"
+  }
+]

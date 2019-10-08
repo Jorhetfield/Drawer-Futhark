@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorScroll"
+    android:foregroundTint="@android:color/holo_red_dark">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foregroundTint="@android:color/holo_red_dark">
+
+        <TextView
+            android:id="@+id/text_home"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardviewImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:foregroundGravity="center"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="192dp"
+                android:layout_height="102dp"
+                android:layout_gravity="center"
+                android:scaleType="fitCenter" />
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:foregroundTint="@android:color/transparent"
+            android:paddingStart="8dp"
+            android:paddingTop="8dp"
+            android:paddingEnd="8dp"
+            android:paddingBottom="8dp"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cardviewImage">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingStart="8dp"
+                android:paddingTop="8dp"
+                android:paddingEnd="8dp"
+                android:paddingBottom="8dp"
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget gravida mauris, in hendrerit metus. Etiam a dapibus nisi. Nam a est convallis, ultricies eros ut, molestie dui. Duis quis mauris enim. Praesent ultrices lectus quis magna suscipit, sit amet pretium nunc sodales. Aenean at imperdiet lorem. Proin fermentum efficitur lobortis. Vestibulum vitae felis lorem. Mauris id urna ex. Phasellus aliquam euismod augue at consectetur. Etiam libero odio, maximus et turpis ultricies, tempus elementum odio. Ut nec pellentesque ante. Nam nisl arcu, placerat quis nisl at, porttitor vestibulum nibh.  Nullam id hendrerit turpis. Suspendisse sit amet efficitur massa. Nunc non eros non nibh consectetur cursus. Duis dui nunc, sagittis eu pulvinar sit amet, vestibulum nec sapien. Fusce sagittis ex non pharetra scelerisque. Vestibulum magna eros, aliquam in nisi sed, interdum ullamcorper quam. Proin eu dui porta, maximus metus quis, convallis magna. Vivamus ac porttitor ipsum, in aliquam velit.  Nulla rhoncus blandit neque ac fringilla. Ut venenatis lorem dolor, eget iaculis dolor egestas sed. Donec a commodo tellus. Morbi metus magna, venenatis non ullamcorper et, convallis non eros. Aliquam venenatis, urna a lobortis fermentum, arcu ligula sagittis est, in lacinia sapien elit in lacus. Aliquam consequat vitae elit ac vestibulum. Maecenas nec eros ac lectus rhoncus tempor ac id dolor. Phasellus tempus, quam facilisis pellentesque sollicitudin, massa sem commodo mi, eget porta lorem erat at risus. Etiam sed faucibus eros, ut suscipit lorem. Quisque magna nibh, dictum eu elit et, volutpat sollicitudin quam. Integer suscipit auctor nulla vitae consectetur. Donec volutpat enim felis, sit amet mattis massa eleifend vel.  Fusce lobortis odio erat, vitae dictum urna vehicula a. Vivamus quis sapien massa. Mauris vitae diam sed diam commodo lobortis at vel dui. Vestibulum luctus tincidunt risus, et placerat magna interdum quis. Aenean dolor ante, mattis lacinia lectus non, rhoncus lobortis lorem. Fusce in lacinia ipsum, et convallis tortor. Ut bibendum tincidunt orci, non commodo leo iaculis suscipit. Nullam et est molestie, pellentesque tellus nec, viverra sem. Phasellus eget massa efficitur, euismod elit eu, faucibus justo. Maecenas placerat odio lectus, non aliquam ipsum ullamcorper eget. Nullam eu nunc vel nisl aliquam bibendum quis vel turpis.  Donec sapien diam, volutpat et mi id, condimentum cursus neque. Maecenas sodales nibh a cursus vestibulum. Pellentesque pulvinar augue vel dictum sodales. Nam magna est, bibendum vitae fringilla in, finibus a felis. Quisque et lectus in sem dignissim iaculis eget et quam. Aliquam suscipit ut ligula id sagittis. Mauris nulla massa, dapibus vitae sapien quis, fringilla ultricies turpis. Nullam et auctor purus. Proin ultrices erat vel est pulvinar interdum. Donec sit amet gravida sem."
+                android:textSize="18sp" />
+        </androidx.cardview.widget.CardView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Runario futhark</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="header">ᚱᚢᚾᚨᚱᛁᛟ ᚠᚢᛏᚨᚱᚲ</string>
+    <string name="subheader">CEVERPUNK</string>
+
+    <string name="simbologia">Símbolos nórdicos</string>
+    <string name="runario">Runario</string>
+    <string name="runas">Fórmulas rúnicas</string>
+    <string name="historias">Mitología</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="redes_sociales">Redes sociales</string>
+
+<!--    <string name="menu_home">Runario</string>-->
+<!--    <string name="menu_gallery">Símbolos nórdicos</string>-->
+<!--    <string name="menu_slideshow">Mitología</string>-->
+<!--    <string name="menu_tools">Ajustes</string>-->
+<!--    <string name="menu_share">Redes sociales</string>-->
+<!--    <string name="menu_send">Send</string>-->
+</resources>

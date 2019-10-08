@@ -1,0 +1,39 @@
+[
+  {
+    "ean_code": "234543434",
+    "name": "Product1 Comp UK",
+    "brand_id": "4",
+    "equivalents": [],
+    "recommendeds": []
+  },
+  {
+    "ean_code": "1231231",
+    "name": "Producto Competi con Cosas",
+    "brand_id": "4",
+    "equivalents": [],
+    "recommendeds": [
+      "7332152206652"
+    ]
+  },
+  {
+    "ean_code": "345443342",
+    "name": "Product2 Comp UK ",
+    "brand_id": "5",
+    "equivalents": [],
+    "recommendeds": []
+  },
+  {
+    "ean_code": "123454321",
+    "name": "Producto JeJeJe",
+    "brand_id": "5",
+    "equivalents": [
+      "7332152206652",
+      "7332152208076",
+      "7332152200094"
+    ],
+    "recommendeds": [
+      "7332152206652",
+      "7332152200094"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_runes">
+
+    <fragment
+        android:id="@+id/nav_runes"
+        android:name="es.vanadis.drawertests.features.ui.runario.RunarioFragment"
+        tools:layout="@layout/fragment_rune_list">
+
+        <action
+            android:id="@+id/action_nav_runes_to_fragmentRuneDetail"
+            app:destination="@id/fragmentRuneDetail" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentRuneDetail"
+        android:name="es.vanadis.drawertests.features.ui.runario.FragmentRuneDetail"
+        android:label="FragmentRuneDetail"
+        tools:layout="@layout/fragment_rune_detail" />
+
+
+    <fragment
+        android:id="@+id/nav_symbols"
+        android:name="es.vanadis.drawertests.features.ui.simbolos.SimbolosFragment"
+        tools:layout="@layout/fragment_rune_list" >
+        <action
+            android:id="@+id/action_nav_symbols_to_fragmentSymbolDetail"
+            app:destination="@id/fragmentSymbolDetail" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentSymbolDetail"
+        android:name="es.vanadis.drawertests.features.ui.simbolos.FragmentSymbolDetail"
+        android:label="FragmentSymbolDetail"
+        tools:layout="@layout/fragment_symbol_detail"/>
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="es.vanadis.drawertests.features.ui.mitologia.SlideshowFragment"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_tools"
+        android:name="es.vanadis.drawertests.features.ui.formulas.ToolsFragment"
+        tools:layout="@layout/fragment_tools" />
+
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="es.vanadis.drawertests.features.ui.redes.ShareFragment"
+        tools:layout="@layout/fragment_share" />
+
+    <fragment
+        android:id="@+id/nav_send"
+        android:name="es.vanadis.drawertests.features.ui.send.SendFragment"
+        tools:layout="@layout/fragment_send" />
+
+
+</navigation>
