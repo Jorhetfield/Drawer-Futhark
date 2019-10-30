@@ -11,7 +11,7 @@ import androidx.lifecycle.ViewModelProviders
 import es.vanadis.drawertests.BaseFragment
 import es.vanadis.drawertests.R
 
-class SlideshowFragment : BaseFragment() {
+class MythologyFragment : BaseFragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater,
